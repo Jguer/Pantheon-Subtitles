@@ -1,0 +1,6 @@
+[Contractor Entry]
+Name=Download subtitle
+Icon=folder-download
+Description=Download subtitle for selected video
+MimeType=video
+Gettext-Domain=subliminal
