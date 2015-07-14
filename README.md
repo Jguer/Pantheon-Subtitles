@@ -1,7 +1,7 @@
 # Pantheon Subtitles
 Elementary OS subliminal installer and integration
 
-
+![alt text]( "Preview")
 
 ##Install
 ```sh
