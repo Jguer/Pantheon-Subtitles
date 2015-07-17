@@ -19,3 +19,10 @@ Right click video and select 'Download subtitle', you may have to wait a bit dur
 chmod +x uninstall.sh
 ./uninstall.sh
 ```
+
+
+###Subliminal
+The subliminal project is mantained [Here](https://github.com/Diaoul/subliminal).
+
+###License
+GPL v2
