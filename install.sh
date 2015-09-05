@@ -11,7 +11,7 @@ sudo pip install subliminal --upgrade
 
 ans=$(zenity --entry --title "Enter desired language" --text "Insert your choice." --entry-text "en" "${array[@]}" ); echo $ans
 
-append="Exec=subliminal -l $ans -s -f -q -- %U"
+append="Exec=subliminal download -l $ans -s -f %U"
 
 cp subliminal-download.contract subliminal-download.contract.tmp
 echo $append >> subliminal-download.contract.tmp
